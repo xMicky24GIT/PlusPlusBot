@@ -1,6 +1,6 @@
 <?php
 /*
- * Made by @kaneki666 on Telegram
+ * Made by @kaneki666 on Telegram!
  */
 
 // Include the framework

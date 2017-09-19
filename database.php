@@ -4,7 +4,7 @@
  * Date: 03/09/17
  * Time: 22.09
  *
- * Database class
+ * Database main class
  *
  */
 
